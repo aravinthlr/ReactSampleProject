@@ -1,0 +1,10 @@
+.Header {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
